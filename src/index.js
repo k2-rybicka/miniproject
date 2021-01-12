@@ -44,7 +44,7 @@ function init() {
   sceneWidth = window.innerWidth;
   sceneHeight = window.innerHeight;
   scene = new THREE.Scene();
-  scene.background = new THREE.Color("#d1b8db");
+  scene.background = new THREE.Color("#c3bdc7");
 
   camera = new THREE.PerspectiveCamera(
     75,
